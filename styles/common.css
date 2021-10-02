@@ -1,0 +1,35 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    /*height: 100%;*/
+    font-size: 17px;
+}
+
+h1 {
+    color: darkslategrey;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    border: 2px solid mediumpurple;
+    /*width: 100px;*/
+    /*height: 100px;*/
+    padding: 10px;
+    margin: 10px;
+}
+
+.span-box {
+    display: block;
+    border: 2px solid blue;
+    /*width: 100px;*/
+    /*height: 100px;*/
+    padding: 10px;
+    margin: 10px;
+}
