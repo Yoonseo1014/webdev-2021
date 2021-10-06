@@ -1,0 +1,33 @@
+.bigbox {
+    padding: 10px;
+}
+
+.title {
+    font-weight: bold;
+    font-size:1.3em;
+}
+
+.orange-box {
+    box-sizing: border-box;
+    padding-top: 13px;
+    width: 300px;
+    height: 50px;
+    background: orange;
+    border-radius: 5px;
+
+}
+
+.textinorgbox {
+    color: white;
+    font-weight: bold;
+    font-size:1.2em;
+    margin-left: 20px;
+}
+
+.xinorgbox {
+    float: right;
+    color: white;
+    font-weight: bold;
+    font-size:1.2em;
+    margin-right: 20px;
+}
